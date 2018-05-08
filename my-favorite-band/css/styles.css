@@ -1,0 +1,10 @@
+.sidebar {
+  float: right;
+  width: 35%;
+  background-color: lightgreen;
+  padding: 10px;
+}
+
+.soldout {
+  color: red;
+}

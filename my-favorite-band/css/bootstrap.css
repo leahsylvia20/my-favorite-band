@@ -1381,13 +1381,14 @@ a.bg-primary:focus {
 }
 .bg-success {
   background-color: #dff0d8;
+  width: 400px;
 }
 a.bg-success:hover,
 a.bg-success:focus {
   background-color: #c1e2b3;
 }
 .bg-info {
-  background-color: #d9edf7;
+  color: blue;
 }
 a.bg-info:hover,
 a.bg-info:focus {
@@ -5820,6 +5821,7 @@ button.list-group-item-danger.active:focus {
   min-height: 20px;
   padding: 19px;
   margin-bottom: 20px;
+  width: 45%;
   background-color: #f5f5f5;
   border: 1px solid #e3e3e3;
   border-radius: 4px;
